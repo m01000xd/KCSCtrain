@@ -1,0 +1,4 @@
+Vì đây là file elf nên muốn debug trên IDA thì phải remote debug trên linux
+
+E học theo cách debug trên youtube: https://www.youtube.com/watch?v=vMr7Zym6hEI
+
